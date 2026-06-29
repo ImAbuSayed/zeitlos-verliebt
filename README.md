@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/zeitlos-verliebt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Zeitlos verliebt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zeitlos-verliebt/) |
+| **Get License** | [Get a Licensing Quote for Zeitlos verliebt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zeitlos-verliebt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Spür' den Bass in der Brust, wenn dein Blick mich berührt
+> Ich bin zeitlos verliebt, hab' den Vibe längst gespürt
+> Late-Night-Drive durch die City, das Neonlicht brennt
+> Baby, wir beide, no limits, nichts was uns noch trennt
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
