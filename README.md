@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/zeitlos-verliebt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Zeitlos verliebt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zeitlos-verliebt/) |
+| **Get License** | [Secure Licensing Rights for Zeitlos verliebt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zeitlos-verliebt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `47fe0b53f95de1285e67341ace1e35317d07c48ea70aa651cdf566e31c86e472` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
